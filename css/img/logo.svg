@@ -1,0 +1,78 @@
+<svg width="70" height="61" viewBox="0 0 70 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="70" height="61" fill="#1E1E1E"/>
+<g id="newlms.pdp.university by html.to.design &#226;&#157;&#164;&#239;&#184;&#143; FREE version - 19/12/2023, 16:59:34 GMT+5">
+<rect id="Body paints" x="-14" y="0.5" width="1366" height="627" fill="#F7F7FA"/>
+<g id="div#root">
+<g id="div.sc-aXZVg">
+<g id="div.h2d-b7a201a2">
+<g id="div.sticky">
+<g id="div.sc-jlZhew">
+<g id="div.sidebar" filter="url(#filter0_d_0_1)">
+<g clip-path="url(#clip0_0_1)">
+<mask id="path-2-inside-1_0_1" fill="white">
+<path d="M-14 0.5H86V627.5H-14V0.5Z"/>
+</mask>
+<path d="M-14 0.5H86V627.5H-14V0.5Z" fill="white"/>
+</g>
+<path d="M85 0.5V627.5H87V0.5H85Z" fill="#E2E2EA" mask="url(#path-2-inside-1_0_1)"/>
+</g>
+<g id="div.sidebar__switcher" opacity="0.2">
+<g id="union-light.2897379a81f3a8ec9f1db7bdbd2853bb.svg fill" clip-path="url(#clip1_0_1)">
+<g id="union-light.2897379a81f3a8ec9f1db7bdbd2853bb.svg" clip-path="url(#clip2_0_1)">
+<g id="Group">
+<path id="svg_1" fill-rule="evenodd" clip-rule="evenodd" d="M85.89 -11.75C85.89 -12.9926 84.8826 -14 83.64 -14C82.3974 -14 81.39 -12.9926 81.39 -11.75V4.2543C81.39 9.6048 77.3829 13.9871 72.9999 17.056C67.1894 21.1243 63.39 27.8685 63.39 35.5C63.39 43.4532 67.5165 50.4427 73.7453 54.4441C77.8075 57.0537 81.39 61.0199 81.39 65.8481V73.75C81.39 74.9926 82.3974 76 83.64 76C84.8826 76 85.89 74.9926 85.89 73.75V67C85.89 62.0294 90.0763 58.167 94.6537 56.2294C102.726 52.8124 108.39 44.8176 108.39 35.5C108.39 26.9827 103.657 19.5707 96.6784 15.7503C91.2284 12.7669 85.89 7.9632 85.89 1.75V-11.75Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="div.sidebar__header" clip-path="url(#clip3_0_1)">
+<rect width="98" height="60" transform="translate(-14 0.5)" fill="white"/>
+<g id="Link">
+<g id="div.logo__img">
+<g id="pdp-logo-dark.363ef380405e4fd6bc92e3570bd64872.svg fill" clip-path="url(#clip4_0_1)">
+<g id="pdp-logo-dark.363ef380405e4fd6bc92e3570bd64872.svg">
+<g id="Group_2">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M25.263 24.237C19.054 24.237 14 29.291 14 35.5C14 41.709 19.054 46.756 25.263 46.756C31.472 46.756 36.519 41.702 36.519 35.5C36.519 29.291 31.465 24.237 25.263 24.237Z" fill="#00B533"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M41.363 48.723H36.519L43.729 22.277H48.573L41.363 48.723Z" fill="#002930"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M48.79 48.723H43.946L51.156 22.277H56L48.79 48.723Z" fill="#002930"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-22" y="0.5" width="116" height="675" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="24" operator="erode" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.0588235 0 0 0 0 0.0588235 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<path d="M-14 0.5H86V627.5H-14V0.5Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="45" height="90" fill="white" transform="translate(63.39 -12.5)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="45" height="87" fill="white" transform="translate(63.39 -11)"/>
+</clipPath>
+<clipPath id="clip3_0_1">
+<rect width="98" height="60" fill="white" transform="translate(-14 0.5)"/>
+</clipPath>
+<clipPath id="clip4_0_1">
+<rect width="70" height="70" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
